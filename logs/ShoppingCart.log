@@ -1,0 +1,173 @@
+2018-08-14 22:44:53 INFO  DispatcherServlet:489 - FrameworkServlet 'ShoppingCart': initialization started
+2018-08-14 22:44:53 INFO  XmlWebApplicationContext:582 - Refreshing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 22:44:53 IST 2018]; root of context hierarchy
+2018-08-14 22:44:53 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from ServletContext resource [/WEB-INF/ShoppingCart-servlet.xml]
+2018-08-14 22:44:55 INFO  DispatcherServlet:508 - FrameworkServlet 'ShoppingCart': initialization completed in 1504 ms
+2018-08-14 22:45:29 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:45:37 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/index.html] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:47:07 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/hi.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:47:13 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/jsp/hi.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:47:23 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/jsp/home.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:51:48 INFO  XmlWebApplicationContext:987 - Closing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 22:44:53 IST 2018]; root of context hierarchy
+2018-08-14 22:54:10 INFO  DispatcherServlet:489 - FrameworkServlet 'ShoppingCart': initialization started
+2018-08-14 22:54:10 INFO  XmlWebApplicationContext:582 - Refreshing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 22:54:10 IST 2018]; root of context hierarchy
+2018-08-14 22:54:10 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from ServletContext resource [/WEB-INF/ShoppingCart-servlet.xml]
+2018-08-14 22:54:11 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello] onto handler 'app'
+2018-08-14 22:54:11 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello.*] onto handler 'app'
+2018-08-14 22:54:11 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello/] onto handler 'app'
+2018-08-14 22:54:12 INFO  DispatcherServlet:508 - FrameworkServlet 'ShoppingCart': initialization completed in 1494 ms
+2018-08-14 22:54:28 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:54:34 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/hello] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:54:35 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/hello] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:54:36 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/hello] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:54:36 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/hello] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:54:36 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/hello] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:54:36 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/hello] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:54:58 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:55:06 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:55:07 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:55:47 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:55:48 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:55:48 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:55:48 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:55:48 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:55:48 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:55:49 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:55:49 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:55:49 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:56:03 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:56:03 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:56:40 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/services/Hello.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:56:54 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/services/home.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:56:57 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/home.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:57:23 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 22:59:18 INFO  XmlWebApplicationContext:987 - Closing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 22:54:10 IST 2018]; root of context hierarchy
+2018-08-14 22:59:28 INFO  DispatcherServlet:489 - FrameworkServlet 'ShoppingCart': initialization started
+2018-08-14 22:59:28 INFO  XmlWebApplicationContext:582 - Refreshing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 22:59:28 IST 2018]; root of context hierarchy
+2018-08-14 22:59:28 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from ServletContext resource [/WEB-INF/ShoppingCart-servlet.xml]
+2018-08-14 22:59:29 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello] onto handler 'app'
+2018-08-14 22:59:29 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello.*] onto handler 'app'
+2018-08-14 22:59:29 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello/] onto handler 'app'
+2018-08-14 22:59:29 INFO  DispatcherServlet:508 - FrameworkServlet 'ShoppingCart': initialization completed in 1553 ms
+2018-08-14 22:59:52 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:00:01 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:00:04 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:00:04 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:00:04 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/WEB-INF/jsp/Hello ... !.jsp] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:00:45 INFO  XmlWebApplicationContext:987 - Closing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 22:59:28 IST 2018]; root of context hierarchy
+2018-08-14 23:01:31 INFO  DispatcherServlet:489 - FrameworkServlet 'ShoppingCart': initialization started
+2018-08-14 23:01:31 INFO  XmlWebApplicationContext:582 - Refreshing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 23:01:31 IST 2018]; root of context hierarchy
+2018-08-14 23:01:31 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from ServletContext resource [/WEB-INF/ShoppingCart-servlet.xml]
+2018-08-14 23:01:32 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello] onto handler 'app'
+2018-08-14 23:01:32 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello.*] onto handler 'app'
+2018-08-14 23:01:32 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello/] onto handler 'app'
+2018-08-14 23:01:33 INFO  DispatcherServlet:508 - FrameworkServlet 'ShoppingCart': initialization completed in 1530 ms
+2018-08-14 23:01:41 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:01:41 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:01:42 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:01:42 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:01:42 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:01:42 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:02:06 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:02:07 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:02:08 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:02:08 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:02:23 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:03:45 INFO  XmlWebApplicationContext:987 - Closing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 23:01:31 IST 2018]; root of context hierarchy
+2018-08-14 23:04:20 INFO  DispatcherServlet:489 - FrameworkServlet 'ShoppingCart': initialization started
+2018-08-14 23:04:20 INFO  XmlWebApplicationContext:582 - Refreshing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 23:04:20 IST 2018]; root of context hierarchy
+2018-08-14 23:04:20 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from ServletContext resource [/WEB-INF/ShoppingCart-servlet.xml]
+2018-08-14 23:04:21 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello] onto handler 'app'
+2018-08-14 23:04:21 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello.*] onto handler 'app'
+2018-08-14 23:04:21 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello/] onto handler 'app'
+2018-08-14 23:04:21 INFO  DefaultAnnotationHandlerMapping:341 - Root mapping to handler 'home'
+2018-08-14 23:04:21 INFO  DispatcherServlet:508 - FrameworkServlet 'ShoppingCart': initialization completed in 1463 ms
+2018-08-14 23:04:48 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/Home ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:04:49 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/Home ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:04:49 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/Home ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:04:49 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/Home ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:04:49 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/Home ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:03 INFO  DispatcherServlet:489 - FrameworkServlet 'ShoppingCart': initialization started
+2018-08-14 23:07:03 INFO  XmlWebApplicationContext:582 - Refreshing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 23:07:03 IST 2018]; root of context hierarchy
+2018-08-14 23:07:03 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from ServletContext resource [/WEB-INF/ShoppingCart-servlet.xml]
+2018-08-14 23:07:04 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello] onto handler 'app'
+2018-08-14 23:07:04 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello.*] onto handler 'app'
+2018-08-14 23:07:04 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/services/hello/] onto handler 'app'
+2018-08-14 23:07:04 INFO  DefaultAnnotationHandlerMapping:341 - Root mapping to handler 'home'
+2018-08-14 23:07:05 INFO  DispatcherServlet:508 - FrameworkServlet 'ShoppingCart': initialization completed in 1462 ms
+2018-08-14 23:07:22 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:25 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:25 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:25 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:25 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:25 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:26 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:26 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:26 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:52 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:52 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:52 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:52 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:52 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:53 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:53 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:53 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:53 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:53 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:54 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:07:54 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:10:20 INFO  XmlWebApplicationContext:987 - Closing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 23:07:03 IST 2018]; root of context hierarchy
+2018-08-14 23:11:04 INFO  DispatcherServlet:489 - FrameworkServlet 'ShoppingCart': initialization started
+2018-08-14 23:11:04 INFO  XmlWebApplicationContext:582 - Refreshing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 23:11:04 IST 2018]; root of context hierarchy
+2018-08-14 23:11:04 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from ServletContext resource [/WEB-INF/ShoppingCart-servlet.xml]
+2018-08-14 23:11:05 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/hello] onto handler 'app'
+2018-08-14 23:11:05 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/hello.*] onto handler 'app'
+2018-08-14 23:11:05 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/hello/] onto handler 'app'
+2018-08-14 23:11:05 INFO  DefaultAnnotationHandlerMapping:341 - Root mapping to handler 'home'
+2018-08-14 23:11:06 INFO  DispatcherServlet:508 - FrameworkServlet 'ShoppingCart': initialization completed in 1476 ms
+2018-08-14 23:11:11 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:11:28 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:11:30 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:11:31 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:11:31 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:11:31 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/Hello ... !] in DispatcherServlet with name 'ShoppingCart'
+2018-08-14 23:14:05 INFO  XmlWebApplicationContext:987 - Closing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Tue Aug 14 23:11:04 IST 2018]; root of context hierarchy
+2018-08-15 11:37:54 INFO  DispatcherServlet:489 - FrameworkServlet 'ShoppingCart': initialization started
+2018-08-15 11:37:55 INFO  XmlWebApplicationContext:582 - Refreshing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 11:37:55 IST 2018]; root of context hierarchy
+2018-08-15 11:37:55 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from ServletContext resource [/WEB-INF/ShoppingCart-servlet.xml]
+2018-08-15 11:37:59 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/hello] onto handler 'app'
+2018-08-15 11:37:59 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/hello.*] onto handler 'app'
+2018-08-15 11:37:59 INFO  DefaultAnnotationHandlerMapping:354 - Mapped URL path [/hello/] onto handler 'app'
+2018-08-15 11:37:59 INFO  DefaultAnnotationHandlerMapping:341 - Root mapping to handler 'home'
+2018-08-15 11:38:00 INFO  DispatcherServlet:508 - FrameworkServlet 'ShoppingCart': initialization completed in 5257 ms
+2018-08-15 11:38:53 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/hello] in DispatcherServlet with name 'ShoppingCart'
+2018-08-15 11:40:16 INFO  XmlWebApplicationContext:987 - Closing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 11:37:55 IST 2018]; root of context hierarchy
+2018-08-15 11:41:12 INFO  DispatcherServlet:489 - FrameworkServlet 'ShoppingCart': initialization started
+2018-08-15 11:41:12 INFO  XmlWebApplicationContext:582 - Refreshing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 11:41:12 IST 2018]; root of context hierarchy
+2018-08-15 11:41:13 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from ServletContext resource [/WEB-INF/ShoppingCart-servlet.xml]
+2018-08-15 11:41:15 INFO  RequestMappingHandlerMapping:543 - Mapped "{[/hello],methods=[GET]}" onto public java.lang.String com.oxy.s3m.ShoppingCart.App.hello()
+2018-08-15 11:41:15 INFO  RequestMappingHandlerMapping:543 - Mapped "{[/],methods=[GET]}" onto public java.lang.String com.oxy.s3m.ShoppingCart.Home.home()
+2018-08-15 11:41:16 INFO  RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 11:41:12 IST 2018]; root of context hierarchy
+2018-08-15 11:41:17 INFO  RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 11:41:12 IST 2018]; root of context hierarchy
+2018-08-15 11:41:17 INFO  DispatcherServlet:508 - FrameworkServlet 'ShoppingCart': initialization completed in 4607 ms
+2018-08-15 11:41:24 WARN  PageNotFound:1147 - No mapping found for HTTP request with URI [/ShoppingCart/rest/services/hello] in DispatcherServlet with name 'ShoppingCart'
+2018-08-15 11:53:14 INFO  XmlWebApplicationContext:987 - Closing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 11:41:12 IST 2018]; root of context hierarchy
+2018-08-15 11:54:17 INFO  DispatcherServlet:489 - FrameworkServlet 'ShoppingCart': initialization started
+2018-08-15 11:54:18 INFO  XmlWebApplicationContext:582 - Refreshing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 11:54:18 IST 2018]; root of context hierarchy
+2018-08-15 11:54:18 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from ServletContext resource [/WEB-INF/ShoppingCart-servlet.xml]
+2018-08-15 11:54:19 INFO  RequestMappingHandlerMapping:543 - Mapped "{[/hello],methods=[GET]}" onto public java.lang.String com.oxy.s3m.shoppingcart.App.hello()
+2018-08-15 11:54:19 INFO  RequestMappingHandlerMapping:543 - Mapped "{[/services/product/getProduct],methods=[GET]}" onto public com.oxy.s3m.shoppingcart.models.Product com.oxy.s3m.shoppingcart.controllers.ProductDetailController.getProduct(java.lang.String)
+2018-08-15 11:54:19 INFO  RequestMappingHandlerMapping:543 - Mapped "{[/],methods=[GET]}" onto public java.lang.String com.oxy.s3m.shoppingcart.Home.home()
+2018-08-15 11:54:20 INFO  RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 11:54:18 IST 2018]; root of context hierarchy
+2018-08-15 11:54:20 INFO  RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 11:54:18 IST 2018]; root of context hierarchy
+2018-08-15 11:54:21 INFO  DispatcherServlet:508 - FrameworkServlet 'ShoppingCart': initialization completed in 3107 ms
+2018-08-15 12:02:32 INFO  XmlWebApplicationContext:987 - Closing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 11:54:18 IST 2018]; root of context hierarchy
+2018-08-15 12:04:04 INFO  DispatcherServlet:489 - FrameworkServlet 'ShoppingCart': initialization started
+2018-08-15 12:04:04 INFO  XmlWebApplicationContext:582 - Refreshing WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 12:04:04 IST 2018]; root of context hierarchy
+2018-08-15 12:04:05 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from ServletContext resource [/WEB-INF/ShoppingCart-servlet.xml]
+2018-08-15 12:04:07 INFO  RequestMappingHandlerMapping:543 - Mapped "{[/hello],methods=[GET]}" onto public java.lang.String com.oxy.s3m.shoppingcart.App.hello()
+2018-08-15 12:04:07 INFO  RequestMappingHandlerMapping:543 - Mapped "{[/services/product/getProduct],methods=[GET]}" onto public com.oxy.s3m.shoppingcart.models.Product com.oxy.s3m.shoppingcart.controllers.ProductDetailController.getProduct(java.lang.String)
+2018-08-15 12:04:07 INFO  RequestMappingHandlerMapping:543 - Mapped "{[/services/cart/addTransaction],methods=[POST]}" onto public com.oxy.s3m.shoppingcart.models.TransactionResponse com.oxy.s3m.shoppingcart.controllers.ShoppingCartController.addTransaction(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-08-15 12:04:07 INFO  RequestMappingHandlerMapping:543 - Mapped "{[/],methods=[GET]}" onto public java.lang.String com.oxy.s3m.shoppingcart.Home.home()
+2018-08-15 12:04:08 INFO  RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 12:04:04 IST 2018]; root of context hierarchy
+2018-08-15 12:04:09 INFO  RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: WebApplicationContext for namespace 'ShoppingCart-servlet': startup date [Wed Aug 15 12:04:04 IST 2018]; root of context hierarchy
+2018-08-15 12:04:09 INFO  DispatcherServlet:508 - FrameworkServlet 'ShoppingCart': initialization completed in 4598 ms
